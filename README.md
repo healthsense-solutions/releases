@@ -6,7 +6,7 @@ credentials, patient data, and production configuration do not belong here.
 
 ## JeevDristi Android releases
 
-The private `healthsense-solutions/poct_app_flutter` source repository publishes releases
+The private `healthsense-solutions/jeevdristi` source repository publishes releases
 through GitHub Actions:
 
 - Stable source tag: `vMAJOR.MINOR.PATCH`
@@ -94,7 +94,7 @@ are published less frequently; app-only updates are the primary update path.
 
 ## Native Android candidate (publication deferred)
 
-The private `healthsense-solutions/poct_app_jeevdristi` repository prepares unsigned ARM64 beta
+The private `healthsense-solutions/android` repository prepares unsigned ARM64 beta
 artifacts in private CI. Public native publication remains disabled until its
 signing and release gates are configured. Its reserved tags are
 native-app-vMAJOR.MINOR.PATCH-beta.N+VERSION_CODE, with native-latest-beta.json
