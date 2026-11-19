@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/healthsense-solutions/workspace/main/docs/assets/healthsense_logo.png" alt="HealthSense Solutions Logo" width="450" />
+</p>
+
 # HealthSense Solutions — Diagnostic Software and Firmware Releases
 
 This public repository is the distribution channel for HealthSense Solutions Pvt. Ltd.
