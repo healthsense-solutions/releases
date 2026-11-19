@@ -4,8 +4,8 @@
   "tag_name": "app-v1.15.0-beta.334+11500334",
   "version_name": "1.15.0-beta.334",
   "version_code": 11500334,
-  "apk_url": "https://github.com/doc-poct/poct_fw_app_releases/releases/download/app-v1.15.0-beta.334%2B11500334/JeevDristi-1.15.0-beta.334-release.apk",
+  "apk_url": "https://github.com/healthsense-solutions/poct_fw_app_releases/releases/download/app-v1.15.0-beta.334%2B11500334/JeevDristi-1.15.0-beta.334-release.apk",
   "sha256": "a097ac37a9e3f432634d26080450324519c78872cf8cd84967c245b242ef795c",
   "published_at": "2026-11-15T10:50:32Z",
-  "release_notes": "Beta JeevDristi Android build from `doc-poct/poct_app_flutter@8190ce64716cd8c943189e865e2f0b0028b7b806`.\n\nArchitecture: `arm64-v8a` only (other Android ABIs are unsupported)\n\nThis is an early-access build signed with the production update key so beta-channel users can install it over an existing release.\n"
+  "release_notes": "Beta JeevDristi Android build from `healthsense-solutions/poct_app_flutter@8190ce64716cd8c943189e865e2f0b0028b7b806`.\n\nArchitecture: `arm64-v8a` only (other Android ABIs are unsupported)\n\nThis is an early-access build signed with the production update key so beta-channel users can install it over an existing release.\n"
 }
