@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "channel": "beta",
-  "tag_name": "app-v1.15.0-beta.347+11500347",
-  "version_name": "1.15.0-beta.347",
-  "version_code": 11500347,
-  "apk_url": "https://github.com/healthsense-solutions/releases/releases/download/app-v1.15.0-beta.347%2B11500347/JeevDristi-1.15.0-beta.347-release.apk",
-  "sha256": "e49653f56ff7dafff3c170fd97be9425752819f7720bfc58fe8690c9b35fb9c1",
-  "published_at": "2026-11-20T00:07:49Z",
-  "release_notes": "Beta JeevDristi Android build from `healthsense-solutions/jeevdristi@74933c107bcd05546a2d21eab203bb8527539c3d`.\n\nArchitecture: `arm64-v8a` only (other Android ABIs are unsupported)\n\nThis is an early-access build signed with the production update key so beta-channel users can install it over an existing release.\n"
+  "tag_name": "app-v1.15.0-beta.348+11500348",
+  "version_name": "1.15.0-beta.348",
+  "version_code": 11500348,
+  "apk_url": "https://github.com/healthsense-solutions/releases/releases/download/app-v1.15.0-beta.348%2B11500348/JeevDristi-1.15.0-beta.348-release.apk",
+  "sha256": "eafbb35785aa21e6c1fbbea69624c35ea33052fa8abd0d4b416828772b143420",
+  "published_at": "2026-11-20T00:30:06Z",
+  "release_notes": "Beta JeevDristi Android build from `healthsense-solutions/jeevdristi@547e1391080a41e7e9eb85ae5dc0546110925e58`.\n\nArchitecture: `arm64-v8a` only (other Android ABIs are unsupported)\n\nThis is an early-access build signed with the production update key so beta-channel users can install it over an existing release.\n"
 }
